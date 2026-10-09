@@ -9,7 +9,7 @@ Key Features
 • Resume Preview: Review the resume layout before using the final document.
 • User-Friendly Interface: Make resume creation accessible through a guided workflow.
 • Resume Export: Support generating or downloading a resume, where implemented.
-Feature availability may vary according to the current implementation.
+
 Technology Stack
 Add the technologies actually used in this project, such as:
 • Frontend framework and language
