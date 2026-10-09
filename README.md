@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ResumeAI — AI-Powered Resume Builder
+An AI-assisted resume builder designed to help users organize their professional information and create clear, well-structured resumes.
+🔗 Live Demo (https://resume-builder-ai-opal.vercel.app/) | GitHub Repository (https://github.com/hadya12muska/resume-builder-ai)
+Overview
+ResumeAI is a personal web development project exploring how artificial intelligence can simplify the resume-writing process. The application aims to help users present their skills, education, experience, and achievements in a professional format.
+Key Features
+• Resume Creation: Organize personal, educational, and professional information.
+• AI-Assisted Writing: Explore AI-generated suggestions for improving resume content.
+• Resume Preview: Review the resume layout before using the final document.
+• User-Friendly Interface: Make resume creation accessible through a guided workflow.
+• Resume Export: Support generating or downloading a resume, where implemented.
+Feature availability may vary according to the current implementation.
+Technology Stack
+Add the technologies actually used in this project, such as:
+• Frontend framework and language
+• CSS framework or styling tools
+• AI API or service, if integrated
+• Document-generation or PDF-export library, if used
+• Deployment platform
+Getting Started
+Prerequisites
+• Node.js and npm, if this is a Node.js application
+• Any required API credentials for configured services
+Installation
+1. Clone the repository:
+git clone https://github.com/hadya12muska/resume-builder-ai.git
+2. Navigate to the project directory:
+cd resume-builder-ai
+3. Install the dependencies:
+npm install
+4. Configure any required environment variables according to the project configuration.
+5. Start the development server using the appropriate command defined in package.json.
+6. Open the local URL shown in your terminal.
+What I Learned
+Through this project, I have explored:
+• Designing a practical, user-focused web application.
+• Organizing form-based user input.
+• Exploring AI-assisted content generation.
+• Improving the presentation of professional information.
+• Developing and deploying a web application.
+Future Improvements
+• Expand resume customization options.
+• Improve document formatting and export functionality.
+• Add additional resume templates.
+• Enhance accessibility and mobile responsiveness.
+Project Status
+A personal web development project that may continue to evolve as features are improved.
+Author
+Hadya
+Computer science student interested in web development and AI-powered applications.
+GitHub Profile (https://github.com/hadya12muska)
