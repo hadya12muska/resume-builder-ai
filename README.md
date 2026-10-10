@@ -4,11 +4,17 @@
 
 ResumeAI is an AI-powered resume builder designed to help job seekers turn their experience, skills, and achievements into professional, ATS-friendly resumes. With multiple templates, AI-powered writing assistance, secure resume storage, and PDF export, ResumeAI makes resume creation simpler and more accessible.
 
-🌐 **Live Demo:** [Try ResumeAI](https://resume-builder-ai-opal.vercel.app/)  
-💻 **GitHub Repository:** [resume-builder-ai](https://github.com/hadya12muska/resume-builder-ai)
+ **Live Demo:** [Try ResumeAI](https://resume-builder-ai-opal.vercel.app/)  
+ **GitHub Repository:** [resume-builder-ai](https://github.com/hadya12muska/resume-builder-ai)
 
 ---
+##  Resume-Builder-AI Homepage
 
+![ResumeAI Homepage](resumeai-home.png)
+
+**Build professional, ATS-friendly resumes with AI assistance.**
+
+ [Visit ResumeAI](https://resume-builder-ai-opal.vercel.app/)
 ##  Why ResumeAI?
 
 Creating a resume shouldn't be complicated. ResumeAI combines a clean, modern interface with practical tools to help you create, improve, save, and download your resume in one place.
