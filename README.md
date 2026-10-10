@@ -23,14 +23,14 @@ Whether you're applying for your first job, looking for an internship, or prepar
 
 ##  Features
 
-- ** AI-Powered Resume Improvement** — Improve resume wording with AI assistance while preserving your real experience and qualifications.
-- ** Multiple Resume Templates** — Choose from a variety of layouts designed for different career paths and professional styles.
-- ** ATS-Friendly Formatting** — Create clean, structured resumes designed with applicant tracking system readability in mind.
-- ** Profile Photo Support** — Upload or remove a profile photo when building your resume.
-- ** Save and Edit Resumes** — Store your resumes and return to update them later.
-- ** PDF Export** — Download your finished resume as a PDF.
-- ** User Authentication** — Sign up and sign in to access your account.
-- ** Modern User Interface** — Enjoy a clean, career-focused design built with a responsive web framework.
+-  AI-Powered Resume Improvement — Improve resume wording with AI assistance while preserving your real experience and qualifications.
+-  Multiple Resume Templates — Choose from a variety of layouts designed for different career paths and professional styles.
+-  ATS-Friendly Formatting — Create clean, structured resumes designed with applicant tracking system readability in mind.
+-  Profile Photo Support — Upload or remove a profile photo when building your resume.
+-  Save and Edit Resumes — Store your resumes and return to update them later.
+-  PDF Export — Download your finished resume as a PDF.
+-  User Authentication — Sign up and sign in to access your account.
+-  Modern User Interface — Enjoy a clean, career-focused design built with a responsive web framework.
 
 ##  Built With
 
